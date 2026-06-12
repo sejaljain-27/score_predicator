@@ -52,3 +52,5 @@ The application allows users to select:
 * Runs Scored in Last Five Overs
 and instantly predicts the final innings score.
 Built using Machine Learning, Cricket Analytics, and Streamlit.
+#live demo
+https://score-predicator.onrender.com/
